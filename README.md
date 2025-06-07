@@ -9,10 +9,10 @@
 
 ### ⛏️ Planning & Design
 
-- [ ] **1. ERD Design**
+- [x] **1. ERD Design**
   - Design core database structure and relationships
-  - Tool: draw.io
-  - Output: `docs/database/ERD.png` or `.dbml`
+  - Tool: supabase
+  - Output: `docs/database/images/supabase-schema.png`
 
 - [ ] **2. Figma UI Design**
   - Create UI mockups for core screens (dashboard, add/edit transaction, sync)
