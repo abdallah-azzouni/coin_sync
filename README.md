@@ -5,6 +5,24 @@
 
 ---
 
+## 📸 Screenshots
+
+| Main Dashboard | Add Transaction | Account Progress |
+|----------------|------------------|------------------|
+| *photo1* | *photo2* | *photo3* |
+
+---
+
+## 🛠 Tech Stack
+
+| Layer         | Stack Used                    |
+|--------------|-------------------------------|
+| Frontend     | Flutter                        |
+| Backend      | Supabase (PostgreSQL + Auth)   |
+| Design       | Figma            |
+
+---
+
 ## 📆 Project Timeline
 
 ### ⛏️ Planning & Design
