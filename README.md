@@ -9,7 +9,7 @@
 
 | Main Dashboard | Add Transaction | Account Progress |
 |----------------|------------------|------------------|
-| *photo1* | *photo2* | *photo3* |
+| <img src="docs/images/dashboard.png" width="200"> | *photo2* | *photo3* |
 
 ---
 
